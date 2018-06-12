@@ -12,4 +12,5 @@ Scraped from NBA's REST API.
 # Results
 
 ![Best Defenders](Best_Defenders.png)
+
 ![Worst Defenders](Worst_Defenders.png)
